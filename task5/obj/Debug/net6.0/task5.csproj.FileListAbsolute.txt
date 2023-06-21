@@ -1,0 +1,5 @@
+C:\Users\Pirojyli\Desktop\C# ПРОСТО ДЛЯ\task5\obj\Debug\net6.0\task5.csproj.AssemblyReference.cache
+C:\Users\Pirojyli\Desktop\C# ПРОСТО ДЛЯ\task5\obj\Debug\net6.0\task5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pirojyli\Desktop\C# ПРОСТО ДЛЯ\task5\obj\Debug\net6.0\task5.AssemblyInfoInputs.cache
+C:\Users\Pirojyli\Desktop\C# ПРОСТО ДЛЯ\task5\obj\Debug\net6.0\task5.AssemblyInfo.cs
+C:\Users\Pirojyli\Desktop\C# ПРОСТО ДЛЯ\task5\obj\Debug\net6.0\task5.csproj.CoreCompileInputs.cache

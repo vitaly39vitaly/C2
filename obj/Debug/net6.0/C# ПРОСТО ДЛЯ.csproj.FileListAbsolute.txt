@@ -1,0 +1,15 @@
+C:\Users\Pirojyli\Desktop\C# ПРОСТО ДЛЯ\bin\Debug\net6.0\C# ПРОСТО ДЛЯ.exe
+C:\Users\Pirojyli\Desktop\C# ПРОСТО ДЛЯ\bin\Debug\net6.0\C# ПРОСТО ДЛЯ.deps.json
+C:\Users\Pirojyli\Desktop\C# ПРОСТО ДЛЯ\bin\Debug\net6.0\C# ПРОСТО ДЛЯ.runtimeconfig.json
+C:\Users\Pirojyli\Desktop\C# ПРОСТО ДЛЯ\bin\Debug\net6.0\C# ПРОСТО ДЛЯ.dll
+C:\Users\Pirojyli\Desktop\C# ПРОСТО ДЛЯ\bin\Debug\net6.0\ref\C# ПРОСТО ДЛЯ.dll
+C:\Users\Pirojyli\Desktop\C# ПРОСТО ДЛЯ\bin\Debug\net6.0\C# ПРОСТО ДЛЯ.pdb
+C:\Users\Pirojyli\Desktop\C# ПРОСТО ДЛЯ\obj\Debug\net6.0\C# ПРОСТО ДЛЯ.csproj.AssemblyReference.cache
+C:\Users\Pirojyli\Desktop\C# ПРОСТО ДЛЯ\obj\Debug\net6.0\C# ПРОСТО ДЛЯ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pirojyli\Desktop\C# ПРОСТО ДЛЯ\obj\Debug\net6.0\C# ПРОСТО ДЛЯ.AssemblyInfoInputs.cache
+C:\Users\Pirojyli\Desktop\C# ПРОСТО ДЛЯ\obj\Debug\net6.0\C# ПРОСТО ДЛЯ.AssemblyInfo.cs
+C:\Users\Pirojyli\Desktop\C# ПРОСТО ДЛЯ\obj\Debug\net6.0\C# ПРОСТО ДЛЯ.csproj.CoreCompileInputs.cache
+C:\Users\Pirojyli\Desktop\C# ПРОСТО ДЛЯ\obj\Debug\net6.0\C# ПРОСТО ДЛЯ.dll
+C:\Users\Pirojyli\Desktop\C# ПРОСТО ДЛЯ\obj\Debug\net6.0\ref\C# ПРОСТО ДЛЯ.dll
+C:\Users\Pirojyli\Desktop\C# ПРОСТО ДЛЯ\obj\Debug\net6.0\C# ПРОСТО ДЛЯ.pdb
+C:\Users\Pirojyli\Desktop\C# ПРОСТО ДЛЯ\obj\Debug\net6.0\C# ПРОСТО ДЛЯ.genruntimeconfig.cache
